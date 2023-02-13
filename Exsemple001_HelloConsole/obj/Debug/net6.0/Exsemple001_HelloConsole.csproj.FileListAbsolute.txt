@@ -1,0 +1,30 @@
+C:\Users\pimak\OneDrive\Рабочий стол\си_шарп\Exsemple001_HelloConsole\bin\Debug\net6.0\Exsemple001_HelloConsole.exe
+C:\Users\pimak\OneDrive\Рабочий стол\си_шарп\Exsemple001_HelloConsole\bin\Debug\net6.0\Exsemple001_HelloConsole.deps.json
+C:\Users\pimak\OneDrive\Рабочий стол\си_шарп\Exsemple001_HelloConsole\bin\Debug\net6.0\Exsemple001_HelloConsole.runtimeconfig.json
+C:\Users\pimak\OneDrive\Рабочий стол\си_шарп\Exsemple001_HelloConsole\bin\Debug\net6.0\Exsemple001_HelloConsole.dll
+C:\Users\pimak\OneDrive\Рабочий стол\си_шарп\Exsemple001_HelloConsole\bin\Debug\net6.0\Exsemple001_HelloConsole.pdb
+C:\Users\pimak\OneDrive\Рабочий стол\си_шарп\Exsemple001_HelloConsole\obj\Debug\net6.0\Exsemple001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\pimak\OneDrive\Рабочий стол\си_шарп\Exsemple001_HelloConsole\obj\Debug\net6.0\Exsemple001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pimak\OneDrive\Рабочий стол\си_шарп\Exsemple001_HelloConsole\obj\Debug\net6.0\Exsemple001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\pimak\OneDrive\Рабочий стол\си_шарп\Exsemple001_HelloConsole\obj\Debug\net6.0\Exsemple001_HelloConsole.AssemblyInfo.cs
+C:\Users\pimak\OneDrive\Рабочий стол\си_шарп\Exsemple001_HelloConsole\obj\Debug\net6.0\Exsemple001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\pimak\OneDrive\Рабочий стол\си_шарп\Exsemple001_HelloConsole\obj\Debug\net6.0\Exsemple001_HelloConsole.dll
+C:\Users\pimak\OneDrive\Рабочий стол\си_шарп\Exsemple001_HelloConsole\obj\Debug\net6.0\refint\Exsemple001_HelloConsole.dll
+C:\Users\pimak\OneDrive\Рабочий стол\си_шарп\Exsemple001_HelloConsole\obj\Debug\net6.0\Exsemple001_HelloConsole.pdb
+C:\Users\pimak\OneDrive\Рабочий стол\си_шарп\Exsemple001_HelloConsole\obj\Debug\net6.0\Exsemple001_HelloConsole.genruntimeconfig.cache
+C:\Users\pimak\OneDrive\Рабочий стол\си_шарп\Exsemple001_HelloConsole\obj\Debug\net6.0\ref\Exsemple001_HelloConsole.dll
+C:\Users\pimak\OneDrive\Рабочий стол\курсы семинары\си_шарп\Exsemple001_HelloConsole\bin\Debug\net6.0\Exsemple001_HelloConsole.exe
+C:\Users\pimak\OneDrive\Рабочий стол\курсы семинары\си_шарп\Exsemple001_HelloConsole\bin\Debug\net6.0\Exsemple001_HelloConsole.deps.json
+C:\Users\pimak\OneDrive\Рабочий стол\курсы семинары\си_шарп\Exsemple001_HelloConsole\bin\Debug\net6.0\Exsemple001_HelloConsole.runtimeconfig.json
+C:\Users\pimak\OneDrive\Рабочий стол\курсы семинары\си_шарп\Exsemple001_HelloConsole\bin\Debug\net6.0\Exsemple001_HelloConsole.dll
+C:\Users\pimak\OneDrive\Рабочий стол\курсы семинары\си_шарп\Exsemple001_HelloConsole\bin\Debug\net6.0\Exsemple001_HelloConsole.pdb
+C:\Users\pimak\OneDrive\Рабочий стол\курсы семинары\си_шарп\Exsemple001_HelloConsole\obj\Debug\net6.0\Exsemple001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\pimak\OneDrive\Рабочий стол\курсы семинары\си_шарп\Exsemple001_HelloConsole\obj\Debug\net6.0\Exsemple001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pimak\OneDrive\Рабочий стол\курсы семинары\си_шарп\Exsemple001_HelloConsole\obj\Debug\net6.0\Exsemple001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\pimak\OneDrive\Рабочий стол\курсы семинары\си_шарп\Exsemple001_HelloConsole\obj\Debug\net6.0\Exsemple001_HelloConsole.AssemblyInfo.cs
+C:\Users\pimak\OneDrive\Рабочий стол\курсы семинары\си_шарп\Exsemple001_HelloConsole\obj\Debug\net6.0\Exsemple001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\pimak\OneDrive\Рабочий стол\курсы семинары\си_шарп\Exsemple001_HelloConsole\obj\Debug\net6.0\Exsemple001_HelloConsole.dll
+C:\Users\pimak\OneDrive\Рабочий стол\курсы семинары\си_шарп\Exsemple001_HelloConsole\obj\Debug\net6.0\refint\Exsemple001_HelloConsole.dll
+C:\Users\pimak\OneDrive\Рабочий стол\курсы семинары\си_шарп\Exsemple001_HelloConsole\obj\Debug\net6.0\Exsemple001_HelloConsole.pdb
+C:\Users\pimak\OneDrive\Рабочий стол\курсы семинары\си_шарп\Exsemple001_HelloConsole\obj\Debug\net6.0\Exsemple001_HelloConsole.genruntimeconfig.cache
+C:\Users\pimak\OneDrive\Рабочий стол\курсы семинары\си_шарп\Exsemple001_HelloConsole\obj\Debug\net6.0\ref\Exsemple001_HelloConsole.dll
